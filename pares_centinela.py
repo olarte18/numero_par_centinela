@@ -11,5 +11,5 @@ while n!=0:
     else:
         impar=impar+1
     n=int(input("digite un numero: "))
-print("Hay "+ str(par)+" numeros pares y "+ str(impar)+"numeros impares")
+print("Hay "+ str(par)+" numeros pares y "+ str(impar)+" numeros impares")
 
